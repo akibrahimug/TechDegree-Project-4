@@ -6,9 +6,9 @@
     padding-left: 0;
     flex-basis: 100%;
     @include flexy;
-  }
-  
-  &-link {
+ }
+    
+  .nav-link {
     text-align: center;
     border-radius: 5px;
     padding: 10px 0;
